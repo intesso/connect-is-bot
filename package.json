@@ -1,0 +1,29 @@
+{
+  "name": "connect-is-bot",
+  "version": "1.0.0",
+  "description": "adds `isBot` to the request, when requested from a bot, search engine, spider etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/intesso/connect-is-bot.git"
+  },
+  "keywords": [
+    "bot",
+    "search",
+    "engine",
+    "spider",
+    "crawler"
+  ],
+  "author": "Andi Neck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/intesso/connect-is-bot/issues"
+  },
+  "homepage": "https://github.com/intesso/connect-is-bot",
+  "dependencies": {
+    "is-bot": "0.0.1"
+  }
+}
