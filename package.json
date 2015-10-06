@@ -1,6 +1,6 @@
 {
   "name": "connect-is-bot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "adds `isBot` to the request, when requested from a bot, search engine, spider etc.",
   "main": "index.js",
   "scripts": {
